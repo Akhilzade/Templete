@@ -1,0 +1,44 @@
+body{
+
+font-family: 'Fondamento', cursive;
+
+}
+.header{
+
+                height: 90vh;
+	width: 100%;
+	color: white;
+
+	background: linear-gradient(to right, rgba(62, 32, 233), rgba(250, 64, 64, 0.5)), url(https://images.pexels.com/photos/3861958/pexels-photo-3861958.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260);
+	background-size: cover;
+}
+
+.h-100{
+	height: 100%;
+	width: 100%;
+}
+
+.btn{
+border-radius: 10rem !important;
+padding: 1.25rem 2.24rem !important; 
+
+}
+
+.myicon{
+font-size: 60px;
+padding: 20px;
+
+}
+
+.message{
+
+	background-image: linear-gradient(to right, #ffecd2 0%, #fcb69f 100%);
+}
+.download{
+
+background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
+}
+.link{
+
+background-image: linear-gradient(to right, #e4afcb 0%, #b8cbb8 0%, #b8cbb8 0%, #e2c58b 30%, #c2ce9c 64%, #7edbdc 100%);
+	}
